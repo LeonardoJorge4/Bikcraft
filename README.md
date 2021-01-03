@@ -1,7 +1,6 @@
 # Bikcraft
 # O site consiste em uma imaginação de como seria um site para criação de bicicletas personalizadas ao gosto do cliente.
-# Projeto Bikcraft, feito totalmente do zero, utilizando Adobe XD para a realização do wireframe e o design do site.
-Possuí animações com JavaScript, e responsividade para dispositivos mobile e tablet.
+# Projeto Bikcraft, feito totalmente do zero, utilizando Adobe XD para a realização do wireframe e o design do site. Possuí animações com JavaScript, e responsividade para dispositivos mobile e tablet.
 
 ## ALGUMAS IMAGENS DO SITE
 ![home-1](https://user-images.githubusercontent.com/69438854/101300439-60d4eb00-3814-11eb-955d-4ecebda162bf.png)
